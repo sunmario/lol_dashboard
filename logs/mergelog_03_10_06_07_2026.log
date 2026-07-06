@@ -1,0 +1,8 @@
+2026-07-06 03:10:06,508 INFO lol_dashboard
+2026-07-06 03:10:06,508 INFO C:\Users\User\Downloads\lol_proj\lol_dashboard
+2026-07-06 03:10:06,508 INFO []
+2026-07-06 03:10:06,508 INFO ValueError in matches?
+2026-07-06 03:10:06,509 INFO []
+2026-07-06 03:10:46,552 INFO lol_dashboard
+2026-07-06 03:10:46,552 INFO C:\Users\User\Downloads\lol_proj\lol_dashboard
+2026-07-06 03:10:46,555 INFO [WindowsPath('C:/Users/User/Downloads/lol_proj/lol_dashboard/lol_output_americas_br1/matches.csv'), WindowsPath('C:/Users/User/Downloads/lol_proj/lol_dashboard/lol_output_americas_la1/matches.csv'), WindowsPath('C:/Users/User/Downloads/lol_proj/lol_dashboard/lol_output_americas_la2/matches.csv'), WindowsPath('C:/Users/User/Downloads/lol_proj/lol_dashboard/lol_output_americas_na1/matches.csv'), WindowsPath('C:/Users/User/Downloads/lol_proj/lol_dashboard/lol_output_asia_jp1/matches.csv'), WindowsPath('C:/Users/User/Downloads/lol_proj/lol_dashboard/lol_output_asia_kr/matches.csv'), WindowsPath('C:/Users/User/Downloads/lol_proj/lol_dashboard/lol_output_europe_eun1/matches.csv'), WindowsPath('C:/Users/User/Downloads/lol_proj/lol_dashboard/lol_output_europe_euw1/matches.csv'), WindowsPath('C:/Users/User/Downloads/lol_proj/lol_dashboard/lol_output_europe_ru/matches.csv'), WindowsPath('C:/Users/User/Downloads/lol_proj/lol_dashboard/lol_output_europe_tr1/matches.csv'), WindowsPath('C:/Users/User/Downloads/lol_proj/lol_dashboard/lol_output_sea_oc1/matches.csv'), WindowsPath('C:/Users/User/Downloads/lol_proj/lol_dashboard/lol_output_sea_sg2/matches.csv')]

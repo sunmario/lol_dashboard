@@ -1,0 +1,19 @@
+2026-07-04 19:05:29,075 INFO 
+[1/3] EXTRACT — получаем данные из API
+2026-07-04 19:05:29,075 INFO Данные собираем для региона: america:na1
+2026-07-04 19:05:31,411 INFO   [1/3] получаем матчи для NmVs4dbmj6_l...
+2026-07-04 19:05:31,544 WARNING   \u26a0 Ошибка для NmVs4dbmj6_l: HTTPSConnectionPool(host='america.api.riotgames.com', port=443): Max retries exceeded with url: /lol/match/v5/matches/by-puuid/NmVs4dbmj6_lSMQYMCL4RkaqSE7YdZ0P2MtmJfxvRSvCPrw4dBUb8wzlf6zo1Ltg7cJjKho1RfzILw/ids?start=0&count=2 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000020210722E90>: Failed to resolve 'america.api.riotgames.com' ([Errno 11001] getaddrinfo failed)"))
+2026-07-04 19:05:31,547 INFO   [2/3] получаем матчи для KSO3ObPb2gOy...
+2026-07-04 19:05:31,552 WARNING   \u26a0 Ошибка для KSO3ObPb2gOy: HTTPSConnectionPool(host='america.api.riotgames.com', port=443): Max retries exceeded with url: /lol/match/v5/matches/by-puuid/KSO3ObPb2gOy4SIWE2OiJcsZudlV0FJd-cGU1vaebzaGKklvDLUMJw0DCh4Lw6aq9XXM37gzqe3Kwg/ids?start=0&count=2 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000020210723110>: Failed to resolve 'america.api.riotgames.com' ([Errno 11001] getaddrinfo failed)"))
+2026-07-04 19:05:31,552 INFO   [3/3] получаем матчи для gzzJ0Gg2Nk0n...
+2026-07-04 19:05:31,557 WARNING   \u26a0 Ошибка для gzzJ0Gg2Nk0n: HTTPSConnectionPool(host='america.api.riotgames.com', port=443): Max retries exceeded with url: /lol/match/v5/matches/by-puuid/gzzJ0Gg2Nk0nI3uVwAl58fr_QWs6lGqShpVMQ9KYguil-DpMtUKGb4bGXmMvDfjm2058kKisQZfSsw/ids?start=0&count=2 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000202107234D0>: Failed to resolve 'america.api.riotgames.com' ([Errno 11001] getaddrinfo failed)"))
+2026-07-04 19:05:31,557 INFO Загружено матчей: 0
+2026-07-04 19:05:31,558 INFO 
+[2/3] TRANSFORM — разбиваем на таблицы
+2026-07-04 19:05:31,567 INFO Игроков:    0
+2026-07-04 19:05:31,567 INFO Матчей:     0
+2026-07-04 19:05:31,567 INFO Участников: 0
+2026-07-04 19:05:31,568 INFO 
+[3/3] LOAD — сохраняем данные
+2026-07-04 19:05:31,568 INFO 
+  \u2192 CSV в 'lol_output_america_na1/'
